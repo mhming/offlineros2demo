@@ -1,6 +1,7 @@
 
 ## 转载请注明出处：
 @github地址:git@github.com:mhming/offlineros2demo.git
+
 @简书地址：[科大讯飞麦克风阵列模块ROS2离线使用记录](https://www.jianshu.com/p/ddf8daed5ea6)
 ## 本代码基于轮趣科技提供的离线demo修改
 @轮趣科技：[远场麦克风阵列语音板ROS六麦模块语音线性4麦6麦科大讯飞降噪](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.52f62e8dIJHJi1&id=633822976782&_u=1ej2pvta40b)
